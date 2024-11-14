@@ -1,12 +1,5 @@
 <h1 align="center">Welcome to Torsumethkk's Github</h1>
 <h3 align="center">A student is interested and fascinated in programming.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=torsumethkk&label=Profile%20views&color=0e75b6&style=flat" alt="torsumethkk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=torsumethkk" alt="torsumethkk" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **C++ programming**
 
 - 🌱 I’m currently learning **Programming with c++ to solve a problems.**

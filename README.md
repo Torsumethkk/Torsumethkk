@@ -2,13 +2,13 @@
 <h3 align="center">A student is interested and fascinated in programming.</h3>
 - 🔭 I’m currently working on **C++ programming**
 
-- 🌱 I’m currently learning **Programming with c++ to solve a problems. **
+- 🌱 I’m currently learning **Programming with c++ to solve a problems. 
 
-- 💬 Ask me about **python, javascript, c++**
+- 💬 Ask me about **python, javascript, c++
 
-- 📫 How to reach me **torsumethkk51@gmail.com**
+- 📫 How to reach me **torsumethkk51@gmail.com
 
-- ⚡ Fun fact **I like a cookie, It's yummy!**
+- ⚡ Fun fact **I like a cookie, It's yummy!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

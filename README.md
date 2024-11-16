@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **torsumethkk51@gmail.com
 
-- ⚡ Fun fact **I like a cookie, It's yummy!
+- ⚡ Fun fact I like a cookie, It's yummy!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning Programming with c++ to solve a problems. 
 
-- 💬 Ask me about **python, javascript, c++
+- 💬 Ask me about python, javascript, c++
 
-- 📫 How to reach me **torsumethkk51@gmail.com
+- 📫 How to reach me torsumethkk51@gmail.com
 
 - ⚡ Fun fact I like a cookie, It's yummy!
 

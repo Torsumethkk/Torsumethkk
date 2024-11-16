@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Torsumethkk's Github</h1>
 <h3 align="center">A student is interested and fascinated in programming.</h3>
-- 🔭 I’m currently working on **C++ programming**
+- 🔭 I’m currently working on C++ programming
 
-- 🌱 I’m currently learning **Programming with c++ to solve a problems. 
+- 🌱 I’m currently learning Programming with c++ to solve a problems. 
 
 - 💬 Ask me about **python, javascript, c++
 
